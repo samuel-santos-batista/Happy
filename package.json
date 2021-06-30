@@ -6,12 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/samuel-santos-batista/happy.git"
-  },
+  "repository": "git+https://github.com/samuel-santos-batista/happy.git",
   "keywords": [],
-  "author": "",
+  "author": "samuel.batista <samuelsantxxi@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/samuel-santos-batista/happy/issues"
